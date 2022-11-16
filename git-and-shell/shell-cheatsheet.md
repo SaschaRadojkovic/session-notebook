@@ -1,0 +1,22 @@
+Tab Auto-complete file and folder names
+
+- Ctrl + A Go to the beginning of the line you're currently typing on
+- Ctrl + E Go to the end of the line you're currently typing on
+- Ctrl + U Clear the line before the cursor
+- Ctrl + K Clear the line after the cursor
+- Ctrl + W Delete the word before the cursor
+- Ctrl + T Swap the last two characters before the cursor
+- Esc + T Swap the last two words before the cursor
+- Ctrl + L Clear the screen
+- Ctrl + C Kill whatever you're running
+- Ctrl + D Exit the current shell
+- Option + → Move cursor one word forward
+- Option + ← Move cursor one word backward
+- Ctrl + F Move cursor one character forward
+- Ctrl + B Move cursor one character backward
+- Ctrl + Y Paste whatever was cut by the last command
+- Ctrl + Z Puts whatever you're running into a suspended background process
+- Ctrl + \_ Undo the last command
+- Option + Shift + Cmd + C Copy plain text
+- Shift + Cmd + V Paste the selection
+- exit End a shell session
